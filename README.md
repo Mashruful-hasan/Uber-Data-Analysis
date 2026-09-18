@@ -86,5 +86,11 @@ The dataset contains ride-level booking records, including fields such as:
 
 
 ## Screenshots
+https://github.com/Mashruful-hasan/Uber-Data-Analysis/blob/main/Home%20Page.png
+https://github.com/Mashruful-hasan/Uber-Data-Analysis/blob/main/Location.png
+https://github.com/Mashruful-hasan/Uber-Data-Analysis/blob/main/Overview.png
+https://github.com/Mashruful-hasan/Uber-Data-Analysis/blob/main/Revenue.png
+https://github.com/Mashruful-hasan/Uber-Data-Analysis/blob/main/Rider.png
+https://github.com/Mashruful-hasan/Uber-Data-Analysis/blob/main/Vehicle.png
 
 
